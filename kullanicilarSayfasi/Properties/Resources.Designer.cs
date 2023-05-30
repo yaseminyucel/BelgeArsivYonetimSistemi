@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace belgeArsivYonetimSistemi.Properties
+namespace kullanicilarSayfasi.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace belgeArsivYonetimSistemi.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("belgeArsivYonetimSistemi.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("kullanicilarSayfasi.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

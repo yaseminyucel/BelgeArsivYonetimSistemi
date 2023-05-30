@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace belgeArsivYonetimSistemi.Properties
+namespace kullanicilarSayfasi.Properties
 {
 
 
