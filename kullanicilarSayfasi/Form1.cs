@@ -13,6 +13,7 @@ namespace kullanicilarSayfasi
 {
     public partial class FrmKullanicilar : Form
     {
+       
         MySqlConnection connection =new MySqlConnection("Server=172.21.54.3; Database=Grup5-2023; Uid=Grup5-2023; Pwd=NyP:974.cc");
         MySqlCommand command;
         MySqlDataAdapter adapter;
@@ -26,7 +27,7 @@ namespace kullanicilarSayfasi
         {
             dt =new DataTable();
             connection.Open();
-            adapter = new MySqlDataAdapter("SELECT * FROM kullanicilar", connection);
+            adapter = new MySqlDataAdapter("SELECT kullanici_id AS 'Kullanıcı id', kullanici_adSoyad AS 'İsim ve Soyisim', kullanici_mail AS 'Mail Adresi', kullanici_sifre AS 'Şifre', kullanici_departman AS 'Departman', kullanici_telefonNo AS 'Telefon No' FROM kullanicilar", connection);
             adapter.Fill(dt);
             dgvKullanicilar.DataSource = dt;
             connection.Close();
