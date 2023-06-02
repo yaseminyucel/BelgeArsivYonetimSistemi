@@ -5,11 +5,11 @@ Fiziksel ortamda bulunan evrakların emanet işlemleri ve konum bilgilerini tuta
 emanet geçmişi gibi verilerin tutulmasıdır.
 
 
-## Giriş sayfası
+### Giriş sayfası
 
 ![WhatsApp Image 2023-06-02 at 18 46 42](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/905f613b-bc36-4325-9286-5c1c141e59bd)
 
-##Seçili Personel Girişi İçin Açılacak Anasayfa
+### Seçili Personel Girişi İçin Açılacak Anasayfa
 
 ![WhatsApp Image 2023-06-02 at 18 50 07](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/7edeeacf-e291-43dd-8670-4c31d2bc0200)
 
@@ -18,19 +18,19 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 ![WhatsApp Image 2023-06-02 at 18 42 00](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/1fe2227b-d05e-4fcc-9639-6f7ed62cd6e1)
 
 
-###Sadece Fakülte Sekreterinin Erişebileceği Kullanıcılar Sayfası
+### Sadece Fakülte Sekreterinin Erişebileceği Kullanıcılar Sayfası
 ![WhatsApp Image 2023-06-02 at 18 53 10](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/f1e1eded-3fd2-4fce-9787-3084eb012470)
 
 ### Programa Yeni Kullanıcılar Ekleme İşlemi
 ![WhatsApp Image 2023-06-02 at 19 04 42](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/a7ea358b-d25a-4f42-a4da-083b1569224d)
 
 
-###Kullanıcı Silme İşlemi
+### Kullanıcı Silme İşlemi
 
 ![WhatsApp Image 2023-06-02 at 18 56 46](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/a3b80bd3-4468-4b26-a1ff-91bcbfb9bdfb)
 
 
-###Kullanıcı Bilgilerini Güncelleme İşlemi
+### Kullanıcı Bilgilerini Güncelleme İşlemi
 
 ![WhatsApp Image 2023-06-02 at 18 56 46](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/5f7e38e1-509c-43fb-9f3e-58974f0e5fdd)
 
