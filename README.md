@@ -53,6 +53,7 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 
 ### Kaydedilen Evrakları Ekranda Görüntüleme
   Kaydet butonuna basılmasıyla girilen bilgiler ekranda görüntülenir ve aynı zamanda veri tabanına kaydedilir.
+  
 ![WhatsApp Image 2023-06-02 at 17 24 51](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/6a24e406-cbf8-44a2-ace5-960198a51134)
 
 ![WhatsApp Image 2023-06-02 at 17 25 33](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/c7ce0d07-4953-432f-b86b-6cffe1f0f8df)
