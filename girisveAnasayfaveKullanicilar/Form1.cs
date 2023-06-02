@@ -22,9 +22,14 @@ namespace girisveAnasayfa
 
         private void bttnGiris_Click(object sender, EventArgs e)
         {
-            
-            try
+            FrmAnasayfa fr = new FrmAnasayfa();
+            if (rbttnfakulteS.Checked)
             {
+                fr.bttnKsayfasi.Visible = true;
+            }
+            
+            
+            
                 connection.Open();
                 string sql = "SELECT * FROM kullanicilar WHERE kullanici_mail=@kmail AND kullanici_sifre=@ksifre";
                 MySqlParameter params1 = new MySqlParameter("kmail", textGirisMail.Text);
@@ -36,18 +41,17 @@ namespace girisveAnasayfa
                 MySqlDataAdapter adapter = new MySqlDataAdapter(command);
                 adapter.Fill(dt);
                 if (dt.Rows.Count > 0)
-                { 
-                   
-                        FrmAnasayfa fr = new FrmAnasayfa();
-                        fr.Show();
+                {
+                    
+                                 
+                    fr.Show();
                     
                 }
-            }
-            catch (Exception)
-            {
+                else
+                {
 
                 MessageBox.Show("Hatalı Giriş");
-            }
+                }
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)

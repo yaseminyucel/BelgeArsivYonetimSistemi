@@ -212,6 +212,7 @@
             this.bttnAcikis.Size = new System.Drawing.Size(66, 55);
             this.bttnAcikis.TabIndex = 2;
             this.bttnAcikis.UseVisualStyleBackColor = false;
+            this.bttnAcikis.Click += new System.EventHandler(this.bttnAcikis_Click);
             // 
             // panel3
             // 
@@ -258,6 +259,7 @@
             this.bttnKsayfasi.Size = new System.Drawing.Size(75, 55);
             this.bttnKsayfasi.TabIndex = 3;
             this.bttnKsayfasi.UseVisualStyleBackColor = false;
+            this.bttnKsayfasi.Visible = false;
             this.bttnKsayfasi.Click += new System.EventHandler(this.bttnKsayfasi_Click);
             // 
             // FrmAnasayfa
@@ -305,6 +307,6 @@
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.Button bttnKsayfasi;
+        public System.Windows.Forms.Button bttnKsayfasi;
     }
 }

@@ -22,5 +22,13 @@ namespace girisveAnasayfa
             FrmKullanicilar fr = new FrmKullanicilar();
             fr.Show();
         }
+
+        private void bttnAcikis_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FrmGiris fr = new FrmGiris();
+            fr.Show();
+
+        }
     }
 }
