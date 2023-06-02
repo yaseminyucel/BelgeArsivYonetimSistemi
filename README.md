@@ -7,33 +7,36 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 
 ### Giriş sayfası
 
-![WhatsApp Image 2023-06-02 at 18 46 42](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/905f613b-bc36-4325-9286-5c1c141e59bd)
+![pgiris](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/7cb5b24b-626b-46ec-9c00-3a2a4844bcb0)
+
 
 ### Seçili Personel Girişi İçin Açılacak Anasayfa
 
-![WhatsApp Image 2023-06-02 at 18 50 07](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/7edeeacf-e291-43dd-8670-4c31d2bc0200)
+![panasayfa](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/227f81c7-12e4-42e5-abd7-9eaed38fb3f0)
+
 
 ### Fakülte Sekreteri İçin Açılacak Anasayfa
 
-![WhatsApp Image 2023-06-02 at 18 42 00](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/1fe2227b-d05e-4fcc-9639-6f7ed62cd6e1)
+![fgiriş](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/f89265df-0a61-4282-a178-7f95668091da)
 
 
 ### Sadece Fakülte Sekreterinin Erişebileceği Kullanıcılar Sayfası
-![WhatsApp Image 2023-06-02 at 18 53 10](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/f1e1eded-3fd2-4fce-9787-3084eb012470)
+![kullaıcılar](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/6516a93e-9765-4285-a660-39910492e15e)
+
 
 ### Programa Yeni Kullanıcılar Ekleme İşlemi
-![WhatsApp Image 2023-06-02 at 19 04 42](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/a7ea358b-d25a-4f42-a4da-083b1569224d)
+![kekle](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/e84d55c3-533e-47e6-bad9-c5e84a8e4953)
 
 
 ### Kullanıcı Silme İşlemi
 
-![WhatsApp Image 2023-06-02 at 18 56 46](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/a3b80bd3-4468-4b26-a1ff-91bcbfb9bdfb)
+![ksil](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/027210e4-d179-4140-b4c4-f6628567dec0)
 
 
 ### Kullanıcı Bilgilerini Güncelleme İşlemi
 
+![kgnc](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/f9b8c891-a119-4b9b-b257-f7c99a168c03)
 
-![WhatsApp Image 2023-06-02 at 18 42 01](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/289e2656-abbc-40d2-b940-32b4b44b358c)
 
 
 ### Evrak İşlemleri Sayfası
