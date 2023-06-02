@@ -42,7 +42,7 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 ![WhatsApp Image 2023-06-02 at 17 22 11](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/6663c6e9-2291-4700-baf8-8a8f259f141b)
 
 ### Evrak Kategori Seçimi
-  Kategori seçenekleri bizden istenenler ile sınırlı tutuldu. Kategoriler aşağıdaki gibi görünür.
+  Kategoriler aşağıdaki gibi görünür. Kategori seçenekleri bizden istenenler ile sınırlı tutuldu. 
 
 ![WhatsApp Image 2023-06-02 at 17 21 49](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/f904a877-25ab-4c3c-9b6c-34f37e7f0f49)
 
