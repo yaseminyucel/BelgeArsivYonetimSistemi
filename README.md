@@ -36,10 +36,47 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 ![WhatsApp Image 2023-06-02 at 18 42 01](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/289e2656-abbc-40d2-b940-32b4b44b358c)
 
 
-### Evrak Kayıt Etme, Arşivdeki Evrakları Görüntüleme ve Filtreleme
+### Evrak İşlemleri Sayfası
+   Evrak ile ilgili tüm işlemler bu sayfada yapılır.
 
+![WhatsApp Image 2023-06-02 at 17 22 11](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/6663c6e9-2291-4700-baf8-8a8f259f141b)
 
+### Evrak Kategori Seçimi
+  Kategori seçenekleri bizden istenenler ile sınırlı tutuldu. Kategoriler aşağıdaki gibi görünür.
 
+![WhatsApp Image 2023-06-02 at 17 21 49](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/f904a877-25ab-4c3c-9b6c-34f37e7f0f49)
+
+### Evrak Kayıt Etme İşlemi
+  Kategori seçildikten sonra evrak numarası, rafı, kayıt eden kişi bilgileri girilir. Ek açıklamalar açıklama bölümünde belirtilir. Tarih ve saat bilgileri otomatik olarak görüntülenir.
+
+![WhatsApp Image 2023-06-02 at 17 24 26](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/4074ec91-e466-4280-9796-4bd8c38d72e8)
+
+### Kaydedilen Evrakları Ekranda Görüntüleme
+  Kaydet butonuna basılmasıyla girilen bilgiler ekranda görüntülenir ve aynı zamanda veri tabanına kaydedilir.
+![WhatsApp Image 2023-06-02 at 17 24 51](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/6a24e406-cbf8-44a2-ace5-960198a51134)
+
+![WhatsApp Image 2023-06-02 at 17 25 33](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/c7ce0d07-4953-432f-b86b-6cffe1f0f8df)
+
+### Evrak Arama İşlemi
+  Evrak Numarası primary key olduğu için arama evrak numarası ile ypılır. Evrak numarası girildiğinde ekranda o evrak görüntülenir.
+
+![WhatsApp Image 2023-06-02 at 17 28 40](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/51bcaa09-3b28-4973-ac91-7ee59391f583)
+
+### Evrakları Filtreleme
+  Yıla, aya, kategoriye, bulunduğu rafa ve kayıt eden kişiye göre filtreleme seçenekleri oluşturuldu.
+
+![WhatsApp Image 2023-06-02 at 17 29 13](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/b74c80be-71a8-47c4-a9d0-25e5d4d9796c)
+
+örnek1:
+![WhatsApp Image 2023-06-02 at 17 30 04](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/6c443cc5-a791-406e-91f7-36a767dc8e36)
+
+örnek2:
+![WhatsApp Image 2023-06-02 at 17 30 34](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/d702aaed-7596-45f4-80a1-c2f932290b2a)
+
+### Arşivdeki Evrakları Görüntüleme 
+  Evrakları Gör butonuna tıklandığında veri tabanındaki tüm evraklar ekranda görüntülenir.
+  
+![WhatsApp Image 2023-06-02 at 17 31 05](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/ec96f46d-5289-4e28-97d9-6d6e07bc514e)
 
 
 ### Evrak Emanet Etme 
