@@ -32,10 +32,8 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 
 ### Kullanıcı Bilgilerini Güncelleme İşlemi
 
-![WhatsApp Image 2023-06-02 at 18 56 46](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/5f7e38e1-509c-43fb-9f3e-58974f0e5fdd)
 
-
-
+![WhatsApp Image 2023-06-02 at 18 42 01](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/289e2656-abbc-40d2-b940-32b4b44b358c)
 
 
 ### Evrak Kayıt Etme, Arşivdeki Evrakları Görüntüleme ve Filtreleme
