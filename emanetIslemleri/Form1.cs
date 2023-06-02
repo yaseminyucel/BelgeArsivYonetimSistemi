@@ -266,6 +266,7 @@ namespace emanetIslemleri
                 VeriGetir();
                 GecmisVeriGetir();
                 TxtBoxTemizle();
+                TxtEmanetId.Text = " ";
 
             }
             catch (Exception ex)
@@ -273,7 +274,7 @@ namespace emanetIslemleri
                 MessageBox.Show("Hata : " + ex.Message);
             }
 
-            //
+            
            
         }
 
