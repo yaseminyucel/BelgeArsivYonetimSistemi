@@ -13,7 +13,7 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 
 ![WhatsApp Image 2023-06-02 at 18 50 07](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/7edeeacf-e291-43dd-8670-4c31d2bc0200)
 
-##Fakülte Sekreteri İçin Açılacak Anasayfa
+### Fakülte Sekreteri İçin Açılacak Anasayfa
 
 ![WhatsApp Image 2023-06-02 at 18 42 00](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102298287/1fe2227b-d05e-4fcc-9639-6f7ed62cd6e1)
 
