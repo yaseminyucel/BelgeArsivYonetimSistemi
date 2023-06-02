@@ -2,7 +2,7 @@
 
 ## Proje Temel Amacı
 Fiziksel ortamda bulunan evrakların emanet işlemleri ve konum bilgilerini tutacak şekilde dijital ortama taşınması ve
-Emanet geçmişi gibi verilerin tutulmasıdır.
+emanet geçmişi gibi verilerin tutulmasıdır.
 
 
 ## Genel Bakış
