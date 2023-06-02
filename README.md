@@ -59,7 +59,7 @@ emanet geçmişi gibi verilerin tutulmasıdır.
 ![WhatsApp Image 2023-06-02 at 17 25 33](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/c7ce0d07-4953-432f-b86b-6cffe1f0f8df)
 
 ### Evrak Arama İşlemi
-  Evrak Numarası primary key olduğu için arama evrak numarası ile ypılır. Evrak numarası girildiğinde ekranda o evrak görüntülenir.
+  Evrak Numarası primary key olduğu için arama işlemi evrak numarası ile yapılır. Evrak numarası girildiğinde ekranda o evrak görüntülenir.
 
 ![WhatsApp Image 2023-06-02 at 17 28 40](https://github.com/yaseminyucel/BelgeArsivYonetimSistemi/assets/102291607/51bcaa09-3b28-4973-ac91-7ee59391f583)
 
